@@ -1,980 +1,1176 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1726095399116 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.21): 1726097263363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095402312 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097266429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095405368 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097269490 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095408426 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097272558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095411488 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097275621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095414547 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097278679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095417602 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097281747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095420665 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097284812 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095423729 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097287873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095426794 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097290938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095429851 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097294000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095432907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097297071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095435965 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097300140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095439026 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097303200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095442097 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097306259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095445161 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097309321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095448221 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097312401 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095451276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097315464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095454338 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097318533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095457397 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097321599 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095460457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097324662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095463530 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097327731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095466593 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097330809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095469651 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097333874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095472717 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097336941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095475785 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097340010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095478844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097343071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095481911 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097346137 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095484974 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097349200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095488036 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097352263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095491104 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097355330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095494167 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097358394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095497229 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097361456 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095500287 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097364520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095503358 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097367587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095506415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097370648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095509475 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097373719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095512535 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097376789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095515597 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097379862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095518675 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097382939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095521733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097386007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095524790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097389066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095527847 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097392135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095530910 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097395196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095533971 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097398259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095537032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097401324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095540089 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097404386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095543143 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097407443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095546201 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097410511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095549266 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097413576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095552325 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097416645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095555388 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097419713 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095558458 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097422784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095561525 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097425848 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095564699 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097428916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095567756 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097431975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095570828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097435033 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095573920 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097438100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095577001 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097441158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095580069 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097444231 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095583136 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097447341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095586192 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097450405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095589268 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097453526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095592328 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097456584 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095595395 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097459642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095598454 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097462708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095601513 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097465775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095604570 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097468850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095607641 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097471931 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095610707 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097474997 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095613762 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097478053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095616823 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097481112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095619892 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097484180 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095622955 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097487237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095626019 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097490300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095629076 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097493365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095632144 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097496425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095635213 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097499488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095638284 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097502549 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095641352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097505614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095644410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097508673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095647475 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097511736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095650533 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097514796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095653604 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097517864 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095656667 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097520927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095659726 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097523989 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095662791 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097527051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095665852 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097530114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095668907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097533178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095672017 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097536248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095675085 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097539316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095678140 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097542382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095681205 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097545443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095684275 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097548502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095687342 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097551560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095690407 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097554621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095693466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097557684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095696527 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097560742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095699590 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097563803 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095702649 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097566878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095705707 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097569942 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095708764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097573015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095711819 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097576087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095714878 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097579147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095717945 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097582298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095721073 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097585357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095724138 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097588417 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095727203 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097591481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095730268 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097594540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095733328 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097597607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095736421 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097600688 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095739475 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097603746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095742545 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097606817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095745599 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097609881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095748665 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097612943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095751721 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097616017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095754780 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097619081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095757838 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097622146 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095760906 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097625210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095763967 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097628277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095767029 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097631334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095770089 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097634393 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095773151 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097637455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095776208 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097640513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095779284 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097643588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095782340 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097646654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095785407 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097649715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095788466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097652775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095791521 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097655855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095794581 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097658919 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095797661 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097661978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095800723 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097665037 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095803781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097668137 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095806837 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097671197 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095809904 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097674262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095812964 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097677335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095816033 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097680397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095819099 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097683463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095822163 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097686527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095825230 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097689591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095828302 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097692646 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095831368 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097695711 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095834423 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097698775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095837484 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097701840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095840546 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097704903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095843738 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097707972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095846802 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097711042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095849863 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097714099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095852924 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097717157 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095855987 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097720224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095859197 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097723284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095862266 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097726344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095865322 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097729406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095868379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097732461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095871451 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097735520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095874512 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097738600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095877583 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097741668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095880645 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097744753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095883708 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097747815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095886775 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097750874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095889844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097753933 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095892908 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097756999 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095895974 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097760063 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095899039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097763128 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095902104 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097766186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095905171 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097769249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095908231 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097772320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095911305 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097775386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095914360 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097778455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095917429 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097781517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095920497 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097784580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095923557 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097787638 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095926620 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097790700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095929685 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097793764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095932752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097796837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095935813 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097799900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095938876 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097802972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095941941 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097806036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095945004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097809112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095948070 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097812179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095951131 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097815241 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095954192 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097818303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095957256 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097821369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095960319 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097824443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095963499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097827510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095966562 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097830576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095969615 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097833636 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095972673 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097836695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095975735 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097839755 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095978806 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097842821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095981938 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097845910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095984995 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097848977 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095988058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097852041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095991116 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097855103 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095994177 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097858158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.21): 1726095997238 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.21): 1726097861217 tunnel running, 2 tunnels registered
 
 
 TUNNELS
+board-humanity.gl.at.ply.gg:2907 => 127.0.0.1:2907 (proto: Udp, port count: 1)
 favorite-bahrain.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
